@@ -60,4 +60,27 @@ See `queries/` folder for SQL files.
 ---
 
 ## 📂 Project Structure
+olistfinal-sql-server-analysis/ │ ├── README.md ├── schema/ │ ├── create_tables.sql │ └── foreign_keys.sql │ ├── data/ │ ├── customers.csv │ ├── orders.csv │ ├── order_items.csv │ └── ... (etc.) │ ├── queries/ │ ├── top_sellers.sql │ ├── avg_delivery_time.sql │ └── category_analysis.sql │ └── notebooks/ (Optional for Jupyter/SSMS notebooks)
 
+
+---
+
+## 📊 Insights & Use Cases
+
+- How fast are orders delivered per region?
+- Which sellers are most reliable?
+- Which product categories generate the most revenue?
+- Customer behavior by state and city.
+
+---
+
+## 📎 Source
+
+- [Kaggle Dataset – Olist E-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+---
+
+## 📧 Contact
+
+Made by a 4th-semester Computer Science student exploring data analysis and SQL Server database design. Feel free to contribute or ask questions!
+feel free to email me on emannihsan@gmail.com for the datset.
